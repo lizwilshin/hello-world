@@ -1,2 +1,3 @@
 # hello-world
-Liz Wilshin hello-world for GIST604B
+## Liz Wilshin hello-world for GIST604B
+I am an online MS-GIST student at the University of Arizona in my final year of studies. Professionally, I am a Graduate Student Researcher with the University of Arizona's Mapping Racist Covenants project. Prior to choosing the University of Arizona's MS-GIST program, I was a social services worker with a local HIV/AIDS non-profit in their housing services program and a Project Coordinator for a local health clinic. My undergraduate major was in Anthropology at the University of Arizona and focused on prison systems. I have a cat named Hissy Elliot, like lifting  weights, and I'm distantly related to a silent movie star named Sunday Wilshin.
